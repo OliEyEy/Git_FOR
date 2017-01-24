@@ -7,3 +7,9 @@ tala2=int(input("Sláðu inn tölu 2. "))
 print("Tölurnar lagðar saman eru",str(tala1+tala2))
 print("Tölurnar margfaldaðar saman eru",str(tala1*tala2))
 
+print(" ")
+#Læt notenda skrifa inn nafn sitt og heilsa honum síðan
+print("Liður 2")
+fornafn=input("Hvað er fornafn þitt? ")
+eftirnafn=input("Hvað er eftirnafn þitt? ")
+print("Halló",fornafn,eftirnafn)
